@@ -1,0 +1,1 @@
+Estado=1,Mensaje=La fecha de expiración del CIP 6239418 se ha modificada correctamente.,InfoResponse=

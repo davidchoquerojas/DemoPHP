@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConfirSolPago>
+   <idResSolPago>3345441</idResSolPago>
+   <CodTrans>001000</CodTrans>
+   <Token>ebd67682-6c5a-4611-b163-36ffdffcab98</Token>
+   <MetodoPago>1,2</MetodoPago>
+   <Codigo>SRV</Codigo>
+   <Fecha>2017-04-14 12:47:09</Fecha>
+   <Estado>592</Estado>
+   <ParamsURL />
+   <CIP>
+      <IdOrdenPago>6239418</IdOrdenPago>
+      <IdCliente>296940</IdCliente>
+      <IdEstado>22</IdEstado>
+      <IdServicio>11</IdServicio>
+      <IdMoneda>1</IdMoneda>
+      <NumeroOrdenPago>00000006239418</NumeroOrdenPago>
+      <OrderIdComercio>001000</OrderIdComercio>
+      <Total>2.00</Total>
+      <MerchantID>SRV</MerchantID>
+      <FechaEmision>2017-04-14 12:47:09</FechaEmision>
+      <FechaCancelado />
+      <FechaConciliado />
+      <FechaAnulado>2017-04-17 10:25:20</FechaAnulado>
+      <FechaExpirado />
+      <FechaEliminado />
+      <TiempoExpiracion>6268.214166666667</TiempoExpiracion>
+      <EstaConciliado />
+      <MailComercio>admin@paycash.com.pe</MailComercio>
+      <UsuarioID>297310</UsuarioID>
+      <DataAdicional>Canal Web</DataAdicional>
+      <UsuarioNombre>Pedro Esteban</UsuarioNombre>
+      <UsuarioApellidos>Dido Efectivo</UsuarioApellidos>
+      <UsuarioAlias>Cemafa</UsuarioAlias>
+      <UsuarioEmail>pepruebas@gmail.com</UsuarioEmail>
+      <UsuarioDomicilio />
+      <UsuarioLocalidad>Lima</UsuarioLocalidad>
+      <UsuarioProvincia>Lima</UsuarioProvincia>
+      <UsuarioPais>PERU</UsuarioPais>
+      <Detalles>
+         <Detalle>
+            <IdDetalleOrdenPago>6027589</IdDetalleOrdenPago>
+            <ConceptoPago>PayCash 001000</ConceptoPago>
+            <Importe>2.00</Importe>
+            <Tipo_Origen />
+            <Cod_Origen />
+            <Campo1 />
+            <Campo2 />
+            <Campo3 />
+         </Detalle>
+      </Detalles>
+   </CIP>
+   <Trans />
+</ConfirSolPago>

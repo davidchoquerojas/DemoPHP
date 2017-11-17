@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SolPago>
+   <IdMoneda>1</IdMoneda>
+   <Total>2.0</Total>
+   <MetodosPago>1,2</MetodosPago>
+   <CodServicio>SRV</CodServicio>
+   <Codtransaccion>001000</Codtransaccion>
+   <EmailComercio>admin@paycash.com.pe</EmailComercio>
+   <FechaAExpirar>31/12/2017 17:00:00</FechaAExpirar>
+   <UsuarioId>001</UsuarioId>
+   <DataAdicional>Canal Web</DataAdicional>
+   <UsuarioNombre>Pedro Esteban</UsuarioNombre>
+   <UsuarioApellidos>Dido Efectivo</UsuarioApellidos>
+   <UsuarioLocalidad>Lima</UsuarioLocalidad>
+   <UsuarioProvincia>Lima</UsuarioProvincia>
+   <UsuarioPais>PERU</UsuarioPais>
+   <UsuarioAlias>Cemafa</UsuarioAlias>
+   <UsuarioTipoDoc>DNI</UsuarioTipoDoc>
+   <UsuarioNumeroDoc>44444444</UsuarioNumeroDoc>
+   <UsuarioEmail>pepruebas@gmail.com</UsuarioEmail>
+   <ConceptoPago>PayCash 001000</ConceptoPago>
+   <Telefono>999999999</Telefono>
+   <Detalles>
+      <Detalle>
+         <ConceptoPago>PayCash 001000</ConceptoPago>
+         <Importe>2.0</Importe>
+      </Detalle>
+   </Detalles>
+</SolPago>

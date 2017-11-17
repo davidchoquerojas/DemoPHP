@@ -1,0 +1,1 @@
+Estado=1,Mensaje=El CIP 6239418 se ha eliminado correctamente.,InfoResponse=
